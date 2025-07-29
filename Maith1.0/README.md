@@ -209,4 +209,7 @@ python BLEU4_chrF_TER_new.py
 python COMET_METEOR.py
 python BERTscore.py
 ```
+## License
 
+The dataset in this repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt the material for any purpose, even commercially, with proper attribution.
